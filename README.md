@@ -9,3 +9,4 @@ tut code for comp2521
 - [Week 3](https://www.canva.com/design/DAGQoLaTt_8/vH9SenL5oVXePbYR6VS-Zw/edit?utm_content=DAGQoLaTt_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Week 4](https://www.canva.com/design/DAGSavKB9xE/Itqe30-q6u-KoEZC7euozQ/edit?utm_content=DAGSavKB9xE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Week 5](https://www.canva.com/design/DAGSl0S3uGc/Q4QgzSSX0VgEESQpAeBvhA/edit?utm_content=DAGSl0S3uGc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Week 7](https://www.canva.com/design/DAGUb2JtSfI/9Z_-eSuyZRBZ3bDPFeQZ5A/edit?utm_content=DAGUb2JtSfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
