@@ -15,4 +15,4 @@ tut code for comp2521
 ## Assignment 2:
 - Make sure to fix up your style before you submit (see my previous email about this)
 - Make sure to test your code (especially task 2) by coming up with your own data files and test cases
-- You can compare your output with the reference implementation's output for testing. Here is a useful website that can help you do this fast: https://www.diffchecker.com/
+- You can compare your output with the reference implementation's output for testing. Here is a useful website that can help you do this fast: https://www.diffchecker.com/ -> if you paste both outputs into it, it will tell you where they differ which is faster than manually going through both outputs line by line
