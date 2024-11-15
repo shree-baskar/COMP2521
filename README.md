@@ -15,6 +15,6 @@ tut code for comp2521
 - [Week 10](https://www.canva.com/design/DAGWaHnYU48/miREKfHSqYxmNjtppHSblw/edit?utm_content=DAGWaHnYU48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Assignment 2:
-- Make sure to fix up your style before you submit (see my previous email about this)
-- Make sure to test your code (especially task 2) by coming up with your own data files and test cases
+- Make sure to read the style guide and fix up your style before you submit (see my previous email about this).
+- Make sure to test your code by coming up with your own data files and test cases
 - You can compare your output with the reference implementation's output for testing. Here is a useful website that can help you do this fast: https://www.diffchecker.com/ -> if you paste both outputs into it, it will tell you where they differ which is faster than manually going through both outputs line by line
